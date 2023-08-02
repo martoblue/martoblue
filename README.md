@@ -1,17 +1,3 @@
-Soy Luis Martorelli
+Hi, my name is Luis Martorelli
 
-Estudié Ing. en informática y me encanta el mundo de la programación y App para desarrollo,
-me he desempeñado en varias áreas de la informática y así ampliar mis conocimientos y poder crecer como profesional,
-tengo experiencia en C++, PHP, HTML, CSS, JAVASCRIPT, frameworks como JQUERY, BOOTSTRAP, CODEIGNITER, NODE, LARAVEL,
-REACT, conocimientos de lenguaje SQL, manejo de bases de datos PhpMyAdmin (MYSQL),
-conocimientos básicos de Amazon S3 y EC2, y de servicios FTP, SSH, manejo de Github, HTTPie, Postman,
-integración de Api Rest, manejo básico de terminal Linux, conocimientos de sistema de gestión de contenidos como Prestashop,
-Wordpress Shopify.
-
-He realizado soporte técnico vía remota o en terreno, creación de cables de red ethernet, 
-configuración e instalación de cámaras de seguridad, implementación y administración de ERP y CRM, creación y 
-administración de páginas web e-commerce, armar y reparar computadoras, inventario de artículos informáticos,
-implementación y automatización de procesos empresariales con la informática.
-
-Mis fortalezas son trabajo en equipo, aporte con nuevas ideas para seguir innovando, carismático y proactivo,
-siempre con ganas de seguir aprendiendo cada vez más, con muchas ganas de trabajar, pulcro y ordenado.
+I have extensive experience in various programming languages and technologies, including HTML, CSS, SCSS, JavaScript, Python, and frameworks such as jQuery, Bootstrap, Django, and React.js. I am well-versed in SQL language and proficient in managing databases using PhpMyAdmin (MySQL). Additionally, I possess a basic understanding of Amazon S3 and EC2, FTP services, SSH, and proficient in managing repositories on Github. I have hands-on experience with tools like HTTPie and Postman for API Rest integration. Furthermore, I am proficient in Linux terminal management and have a good understanding of content management systems such as Prestashop, Wordpress, and Shopify. With a strong foundation in web development, I am committed to delivering high-quality solutions and staying updated with the latest industry trends.
