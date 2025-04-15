@@ -7,5 +7,3 @@
 💬 Ask me about git or react.js
 
 📫 How to reach me: luismarto8a@gmail.com
-
-⚡ Fun fact: i like world of warcraft
